@@ -107,7 +107,7 @@ After completing the installation, follow the usage instructions below to run th
     python image_text_extractor.py - mine is main.py
    ```# Image-Text-Extractor-Ocr
 
-## ▶️ Usage
+## Usage
 
 Run the script:
 
@@ -121,14 +121,14 @@ Extracted Text:
 Hello World
 This text was extracted from the image.
 
-## 📂 Project Structure
+## Project Structure
 image-text-extractor-ocr/
 │
 ├── main.py
 ├── requirements.txt
 └── README.md
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 Understanding OCR concepts
 
@@ -138,7 +138,7 @@ Using external OCR engines
 
 Cross-platform Python setup
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 GUI interface
 
@@ -150,17 +150,17 @@ Language selection support
 
 Image preprocessing for better accuracy
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 OCR accuracy depends on image quality and clarity.
 This project is intended for educational and personal use.
 
-## 👨‍💻 Author
+## Author
 
 Atul Anand
 BCA (Hons)
 Amity University, Noida
 
-## ⭐ Support
+## Support
 
 If you find this project useful, don’t forget to star ⭐ the repository!
