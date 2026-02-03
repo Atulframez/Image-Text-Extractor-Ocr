@@ -106,3 +106,61 @@ After completing the installation, follow the usage instructions below to run th
    ```bash
     python image_text_extractor.py - mine is main.py
    ```# Image-Text-Extractor-Ocr
+
+## ▶️ Usage
+
+Run the script:
+
+python main.py
+
+Enter the image file path when prompted:
+Enter the path to the image file: sample.png
+
+## Output
+Extracted Text:
+Hello World
+This text was extracted from the image.
+
+## 📂 Project Structure
+image-text-extractor-ocr/
+│
+├── main.py
+├── requirements.txt
+└── README.md
+
+## 🎯 Learning Outcomes
+
+Understanding OCR concepts
+
+Working with image processing in Python
+
+Using external OCR engines
+
+Cross-platform Python setup
+
+## 🔮 Future Enhancements
+
+GUI interface
+
+Batch image processing
+
+PDF text extraction
+
+Language selection support
+
+Image preprocessing for better accuracy
+
+## ⚠️ Disclaimer
+
+OCR accuracy depends on image quality and clarity.
+This project is intended for educational and personal use.
+
+## 👨‍💻 Author
+
+Atul Anand
+BCA (Hons)
+Amity University, Noida
+
+## ⭐ Support
+
+If you find this project useful, don’t forget to star ⭐ the repository!
